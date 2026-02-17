@@ -8,7 +8,7 @@ from .compatibility_utils import unicode_str
 
 from .unipath import pathof
 import os
-import imghdr
+import imghdr-lts
 
 import struct
 # note:  struct pack, unpack, unpack_from all require bytestring format
